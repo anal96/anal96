@@ -1,4 +1,4 @@
-.# Hello, I'm [Anal joseph] 👋
+# Hello, I'm [Anal joseph] 👋
 
 I'm currently pursuing a Bachelor of Computer Applications (BCA) and aspiring to become a proficient MERN stack developer. I'm passionate about web development and constantly learning new technologies to enhance my skills.
 
