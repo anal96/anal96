@@ -2,7 +2,7 @@
 <img src="github-header-image.png" alt="Header Image" width="100%" height="auto" />
 
 
-# Hello, I'm Anal joseph👋
+
 ### Aspiring MERN Stack Developer | BCA Student | Passionate Coder
 
 <p align="center">
@@ -42,6 +42,66 @@
 
 ---
 
+### 🌱 I’m currently learning & using
+
+<br>
+
+<!-- 아이콘 총 모음 -->
+[![My Skills](https://skillicons.dev/icons?i=git,html,js,nodejs,react,css,cpp,py,mysql,bootstrap,c,github,java,)](https://skillicons.dev)
+
+<br>
+
+### 🛠 Programming Languages
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,ts,py,c)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
+
+<br>
+
+### 💻 Frontend Technologies
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,react,css,bootstrap,threejs,)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
+
+<br>
+
+### ⌨️ Backend Technologies
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,mongodb,javascript)](https://skillicons.dev)
+
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+ 
+<br>
+
+### 📋 Configuration Management
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+<br>
+
+### 🐬 Using IDE
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white">
+
+<br>
+
+
 ### ✨ Featured Projects
 
 <div align="center">
@@ -58,16 +118,21 @@
 
 
 ### 📈 GitHub Stats
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anal96&theme=nightowl&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anal96&theme=nightowl&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anal96&theme=nightowl&utcOffset=5.30" height="180em" alt="Time Graph"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anal96&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anal96&theme=default" alt="GitHub Streak Stats" width="50.90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anal96&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anal96&theme=nightowl" alt="GitHub Streak Stats" width="50.90%" />
 </div>
 
 ### 🚀 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anal96&theme=default" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anal96&theme=nightowl" alt="Top Languages" width="40%" />
 </div>
 
 ---
@@ -113,3 +178,9 @@
     <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Repositories" />
   </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/anal96)
+
+<![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=anal96&fontSize=100)
+
+
