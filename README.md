@@ -103,12 +103,6 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anal96&theme=nightowl&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anal96&theme=nightowl&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anal96&theme=nightowl&utcOffset=5.30" height="180em" alt="Time Graph"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anal96&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anal96&theme=nightowl" alt="GitHub Streak Stats" width="50.90%" />
 </div>
