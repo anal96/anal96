@@ -103,14 +103,14 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anal96&show_icons=true&theme=nightowl" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anal96&theme=nightowl" alt="GitHub Streak Stats" width="50.90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anal96&show_icons=true&theme=algolia" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anal96&theme=algolia" alt="GitHub Streak Stats" width="50.90%" />
 </div>
 
 ### 🚀 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anal96&theme=nightowl" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anal96&theme=algolia" alt="Top Languages" width="40%" />
 </div>
 
 ---
@@ -118,7 +118,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anal96&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anal96&theme=algolia&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
