@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6347&center=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+Developer;I+Love+Building+Amazing+Web+Apps!;Let's+Connect+and+Collaborate!" alt="Typing SVG" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🌱 I’m currently learning & using
 
@@ -113,7 +113,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anal96&theme=algolia" alt="Top Languages" width="40%" />
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🏆 GitHub Trophies
 
@@ -121,8 +121,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anal96&theme=algolia&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
----
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -140,7 +139,7 @@
   </a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 📜 My Resume
 
