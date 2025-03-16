@@ -31,7 +31,7 @@
 <br>
 
 <!-- 아이콘 총 모음 -->
-[![My Skills](https://skillicons.dev/icons?i=git,html,js,nodejs,react,css,cpp,py,mysql,bootstrap,c,github,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,aws,gcp,docker,linux,js,nodejs,react,css,cpp,py,mysql,bootstrap,c,github,java,)](https://skillicons.dev)
 
 <br>
 
