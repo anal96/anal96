@@ -3,7 +3,7 @@
 
 
 
-### Aspiring MERN Stack Developer | BCA Student | Passionate Coder
+### DEV 🧑‍💻& founder @trineo 
 
 <p align="center">
   <a href="https://github.com/anal96?tab=followers">
