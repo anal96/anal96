@@ -3,7 +3,7 @@
 
 
 
-### DEV 🧑‍💻& founder @trineo 
+
 
 <p align="center">
   <a href="https://github.com/anal96?tab=followers">
